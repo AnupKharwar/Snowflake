@@ -3,6 +3,6 @@ CREATE OR REPLACE TABLE HELLO_WORLD
 (
    ID int Identity(1,1)   
    ,FIRST_NAME VARCHAR
-  ,LAST_NAME VARCHAR
+   ,LAST_NAME VARCHAR
    ,Primary Key (ID)
 );
